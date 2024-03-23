@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hey Whatsup  <img src="https://emojis.slackmojis.com/emojis/images/1643515118/11386/among_us_orange_dance.gif?1643515118" width='50' />
+
+I'm a web developer from <img src="https://cdn-icons-png.flaticon.com/512/10576/10576622.png" width='17'/> Malaysia.
+
+
+<!-- ## I code with -->
 
 <!--
 **wongkaiboondev/wongkaiboondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
